@@ -1,7 +1,7 @@
 # WordleSolvr
 A bot that takes in a first guess then solves the wordle puzzle for that day
 
-Install [chrome driver](Install chrome driver(https://chromedriver.chromium.org/downloads) and place the driver in the same folder as "wordlesolvrgit.py" and "words.final2.csv"
+Install chrome driver(https://chromedriver.chromium.org/downloads) and place the driver in the same folder as "wordlesolvrgit.py" and "words.final2.csv"
 
 to run the program "wordlesolvrgit.py guess"
 where guess is the first word you want to try eg
